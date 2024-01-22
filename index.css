@@ -1,0 +1,171 @@
+body{
+    background-color: black;
+    overflow: hidden;
+    
+
+}
+
+#universal{
+    
+
+    background-color: #b01b2e ;
+    color: white;
+    margin-left: 20vh;
+    margin-right: 20vh;
+    border:  7px solid black;;
+    border-radius: 20px;
+}
+
+header{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 10vh;
+
+
+}
+
+main{
+
+    text-align: center;
+    width: 100%;
+    height: 76vh;
+}
+
+footer{
+    width: 100%;
+    height: 10vh;
+}
+
+#front{
+  border: 2px solid white;
+  background-color: #b01b2e;
+  border-radius: 25px;
+  float: right;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px ;
+  margin: 30px;
+  color: white;
+}
+
+#front:hover{
+    transform: scale(1.2 ,1.2);
+    transition: transform 0.7s;
+}
+
+#back{
+    border: 2px solid white;
+    background-color: #b01b2e;
+    border-radius: 25px;
+    float: left;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px ;
+    margin: 30px;
+    color: white;
+    
+  }
+  
+  #back:hover{
+      transform: scale(1.2 ,1.2);
+      transition: transform 0.7s;
+  }
+
+
+
+#page0{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    font-size: 30px;
+ 
+
+}
+
+
+
+#page0img{
+    padding: 100px;
+    width: 80vh;
+    height: 50vh;
+    
+}
+
+#germany{
+    padding: 20px;
+    width: 70vh;
+    height: 40vh;
+    
+
+
+}
+
+#Finland{
+    height: 40vh;
+    width: 50vh;
+    border: 1px;
+    border-radius: 15px;
+}
+
+#page1{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 30px;
+    
+}
+
+#finlandpeace{
+    letter-spacing: 1.5px;
+    display: flex;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+#sweden{
+    width: 65vh;
+    height: 55vh;
+}
+
+#page3{
+    font-size: 30px;
+    font-weight: 400px;
+}
+
+#page4{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 25px ;
+}
+
+#england{
+    border: 1px ;
+    width: 50vh;
+    height: 37vh;
+    border-radius: 20px;
+}
+
+#page5{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: 25px ;
+}
+
+#hungary{
+    width: 40vh;
+    height: 45vh;
+
+}
+
+#page6{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-size: 50px ;
+    text-align: center;
+}
